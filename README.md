@@ -180,6 +180,7 @@ now working within a frustrating signed 16-bit integer constraints.
 
 
 ```mint
+// code untested, concept stage
 // Scale factors for each component (1-100 range)
 : P 75 ;     // Base polling average (75% support)
 : D 85 ;     // Demographic alignment (85% favorable)
