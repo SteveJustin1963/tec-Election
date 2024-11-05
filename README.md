@@ -1,6 +1,15 @@
 # Election Prediction Algorithm
 ## Theory and Implementation in MINT 2
 
+
+![image](https://github.com/user-attachments/assets/8e829812-edd5-4f98-93de-5463c82403f7)
+![image](https://github.com/user-attachments/assets/704be790-ac66-4e42-8242-4bbc7f87da37)
+
+
+
+
+
+
 ### Overview
 This program implements a simplified election prediction model inspired by the Drake Equation's probabilistic approach. Instead of estimating civilizations, it estimates electoral outcomes using weighted factors that influence voting behavior.
 
