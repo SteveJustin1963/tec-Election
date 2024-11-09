@@ -487,9 +487,7 @@ Improvements:
 3. Add demographic weighting
 4. Show how to validate the model against historical results?
 
-#### validate the model against historical results
-
-I'll help implement validation against historical results and show how to measure the model's accuracy.
+Now we implement validation against historical results and show how to measure the model's accuracy.
 
 ```mint
 // Historical election data structure: [actual_result, [poll1], [poll2], [poll3]]
